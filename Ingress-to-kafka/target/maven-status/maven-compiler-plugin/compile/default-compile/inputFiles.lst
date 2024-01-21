@@ -1,0 +1,3 @@
+/home/sikorski/Документы/kafka_container/Spring-Kafka-POC-CVE-2023-34040-main/Ingress-to-kafka/src/main/java/com/example/Ingresstokafka/controller/FileController.java
+/home/sikorski/Документы/kafka_container/Spring-Kafka-POC-CVE-2023-34040-main/Ingress-to-kafka/src/main/java/com/example/Ingresstokafka/IngressToKafkaApplication.java
+/home/sikorski/Документы/kafka_container/Spring-Kafka-POC-CVE-2023-34040-main/Ingress-to-kafka/src/main/java/com/example/Ingresstokafka/service/KafkaProducerService.java

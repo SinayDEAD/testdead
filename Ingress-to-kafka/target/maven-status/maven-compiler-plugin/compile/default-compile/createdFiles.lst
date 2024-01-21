@@ -1,0 +1,3 @@
+com/example/Ingresstokafka/service/KafkaProducerService.class
+com/example/Ingresstokafka/controller/FileController.class
+com/example/Ingresstokafka/IngressToKafkaApplication.class
